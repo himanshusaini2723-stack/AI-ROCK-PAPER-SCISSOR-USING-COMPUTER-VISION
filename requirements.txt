@@ -1,4 +1,4 @@
 opencv-python-headless
 mediapipe
 numpy
-gradio
+streamlit
